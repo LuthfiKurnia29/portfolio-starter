@@ -22,7 +22,14 @@
     #ff56f6 117.04%
   );
 }
-
+.link{
+  height: 48px;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  padding-top: 0.8rem;
+}
 .gradient,
 .active {
   background: linear-gradient(
