@@ -18,7 +18,7 @@ export default function Work() {
           </p>
         </div>
         <div className="flex flex-row mx-auto mt-10 items-center justify-center gap-6 border-t border-gray-200 pt-10 sm:mt-16 sm:pt-16 lg:mx-0 lg:max-w-none lg:grid-cols-4 md:flex flex-cols">
-            <article className="flex max-w-xl flex-col items-start justify-between">
+            {/* <article className="flex max-w-xl flex-col items-start justify-between">
               <div className='items-center'>
                 <img src={visit} alt="" width={'250px'} className='items-center'/>
               </div>
@@ -36,7 +36,7 @@ export default function Work() {
                 <img src={redis} alt="" className="h-10 w-10 rounded-full bg-gray-50" />
                 <img src={sqlServer} alt="" className="h-10 w-10 rounded-full bg-gray-50" />
               </div>
-            </article>
+            </article> */}
             <article className="flex max-w-xl flex-col items-start justify-between">
               <div className='items-center'>
                 <img src={openHouse} alt="" width={'250px'} className='items-center'/>

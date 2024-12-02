@@ -35,8 +35,7 @@ const Banner = () => {
               />
             </div>
             <p>
-              I am as student in UT School, Jakarta. I am passionate about web
-              development. I love to learn new technologies and I am always
+              I am as Developer, specialized in .NET Core/MVC. I am passionate about Web Development & Data Science Enthusiast. I love to learn new technologies and I am always
               looking for new opportunities. Feel free to contact me if you have
               any questions.
             </p>

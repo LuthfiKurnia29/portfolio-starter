@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a9b6271.css",
+    "main.js": "/static/js/main.20aa8f28.js",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/VisitCC.jpg": "/static/media/VisitCC.da0ee3284acc26502ebb.jpg",
+    "static/media/me.jpg": "/static/media/me.efd16bb60ebe46fb4b21.jpg",
+    "static/media/pdfLuthfi.pdf": "/static/media/pdfLuthfi.72fc35c8c666bdd348f5.pdf",
+    "static/media/openHouse.jpg": "/static/media/openHouse.68e1b713670be245b3a5.jpg",
+    "static/media/be.jpg": "/static/media/be.a7008276b2773e4a2ab2.jpg",
+    "static/media/coding.jpg": "/static/media/coding.a84485486429ee1ddc4f.jpg",
+    "static/media/sql_server-removebg-preview.png": "/static/media/sql_server-removebg-preview.902f55fcd591ca80c94f.png",
+    "static/media/net-removebg-preview.png": "/static/media/net-removebg-preview.ebe0f87f6dc221a576a4.png",
+    "static/media/react-removebg-preview.png": "/static/media/react-removebg-preview.619a1620d0094e009ca8.png",
+    "static/media/tailwind-removebg-preview.png": "/static/media/tailwind-removebg-preview.1cad269048f663b6f022.png",
+    "static/media/laravel-removebg-preview.png": "/static/media/laravel-removebg-preview.36eca6964da9df7e7ad5.png",
+    "static/media/Typescript_logo_2020.png": "/static/media/Typescript_logo_2020.4e3f27e6784d69f4f587.png",
+    "static/media/node-removebg-preview.png": "/static/media/node-removebg-preview.7770d062eaff6bd5d3bf.png",
+    "static/media/redis-removebg-preview.png": "/static/media/redis-removebg-preview.3dec1fe20122ded0a76b.png",
+    "index.html": "/index.html",
+    "main.5a9b6271.css.map": "/static/css/main.5a9b6271.css.map",
+    "main.20aa8f28.js.map": "/static/js/main.20aa8f28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a9b6271.css",
+    "static/js/main.20aa8f28.js"
+  ]
+}
